@@ -35,3 +35,5 @@
 <img src="img/3-2.png">
 
 # Задание 4. 
+
+1. [JSON](https://github.com/kshatyy/10-monitoring-02/blob/main/Dashboard_Export.json)
