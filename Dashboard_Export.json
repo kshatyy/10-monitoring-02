@@ -24,7 +24,7 @@
     {
       "datasource": {
         "type": "prometheus",
-        "uid": "cdhb8mbvfvpxcf"
+        "uid": "cdhb2gsdfvfxcf"
       },
       "fieldConfig": {
         "defaults": {
@@ -102,7 +102,7 @@
         {
           "datasource": {
             "type": "prometheus",
-            "uid": "cdhb8mbvfvpxcf"
+            "uid": "cdhb2gsdfvfxcf"
           },
           "disableTextWrap": false,
           "editorMode": "code",
@@ -118,7 +118,7 @@
         {
           "datasource": {
             "type": "prometheus",
-            "uid": "cdhb8mbvfvpxcf"
+            "uid": "cdhb2gsdfvfxcf"
           },
           "editorMode": "code",
           "expr": "node_memory_MemFree_bytes",
@@ -131,7 +131,7 @@
         {
           "datasource": {
             "type": "prometheus",
-            "uid": "cdhb8mbvfvpxcf"
+            "uid": "cdhb2gsdfvfxcf"
           },
           "editorMode": "code",
           "expr": "node_filesystem_avail_bytes",
@@ -144,7 +144,7 @@
         {
           "datasource": {
             "type": "prometheus",
-            "uid": "cdhb8mbvfvpxcf"
+            "uid": "cdhb2gsdfvfxcf"
           },
           "editorMode": "code",
           "expr": "node_load1{job=\"node\"}",
@@ -157,7 +157,7 @@
         {
           "datasource": {
             "type": "prometheus",
-            "uid": "cdhb8mbvfvpxcf"
+            "uid": "cdhb2gsdfvfxcf"
           },
           "editorMode": "code",
           "expr": "node_load5{job=\"node\"}",
@@ -170,7 +170,7 @@
         {
           "datasource": {
             "type": "prometheus",
-            "uid": "cdhb8mbvfvpxcf"
+            "uid": "cdhb2gsdfvfxcf"
           },
           "editorMode": "code",
           "expr": "node_load15{job=\"node\"}",
@@ -197,7 +197,6 @@
   "timepicker": {},
   "timezone": "browser",
   "title": "NodeExporter",
-  "uid": "cdhg2ex3xhr0gb",
+  "uid": "cdhg3es2xgr1gg",
   "version": 3,
   "weekStart": ""
-}
