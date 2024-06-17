@@ -32,6 +32,6 @@
 
 <img src="img/3.png">
 
-<img src="img/3-1.png">
+<img src="img/3-2.png">
 
 # Задание 4. 
